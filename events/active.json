@@ -1,0 +1,33 @@
+{
+  "slug": "appoos-catering-mylachal-neyyattinkara",
+  "name": "Appoos Catering Mylachal",
+  "shortName": "Appoos Catering Mylachal",
+  "descriptor": "Catering Services",
+  "address": "Appoos caters & Events, neyyattinkara, Mylachal, Thiruvananthapuram, Keezharoor, Keralam 695124",
+  "area": "Mylachal",
+  "city": "Neyyattinkara",
+  "district": "Thiruvananthapuram",
+  "region": "Kerala",
+  "postalCode": "695124",
+  "geo": {
+    "lat": 8.456351,
+    "lng": 77.1404063
+  },
+  "mapsLink": "https://maps.google.com/?cid=13106992191411359297",
+  "phone": "+91 81293 60509",
+  "whatsapp": "918129360509",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 0,
+  "reviewCount": 0,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://appoos-catering-mylachal-neyyattink.vercel.app"
+}
